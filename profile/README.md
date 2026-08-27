@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/retro-garage-logo-transparent.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/retro-garage-logo-transparent.png">
-    <img src="assets/retro-garage-logo-transparent.png" alt="Retro Garage" width="260">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/retro-garage-logo-night.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/retro-garage-logo-day.png">
+    <img src="assets/retro-garage-logo-day.png" alt="Retro Garage" width="420">
   </picture>
 
   # Welcome to Retro Garage
