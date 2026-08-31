@@ -8,6 +8,8 @@
   # Welcome to Retro Garage
 
   **A workshop for bringing old ideas back to life and building new ones with a retro twist.**
+
+  [📸 Instagram](https://www.instagram.com/retrogaragegames/) · [☕ Ko-fi](https://ko-fi.com/retrogarage)
 </div>
 
 Retro Garage is where I, [Fulvio](https://github.com/Fulviuus), create and share:
